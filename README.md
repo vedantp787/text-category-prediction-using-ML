@@ -1,7 +1,11 @@
-#  Task 2 – Text Category Prediction
 
-This project predicts the category of a given text (e.g., Ecommerce, Healthcare, Entertainment, etc.)
-using a machine learning model trained on manually labeled data.
+– Text Category Prediction
+
+This project uses a machine learning model to predict the category of a given text 
+(e.g., Ecommerce, Healthcare, Entertainment, Technology, Education, Other).  
+The dataset was manually labeled, and the best performing model was deployed through a Flask API 
+to provide real-time category predictions.
+
 
 ---
 
