@@ -19,9 +19,10 @@ using a machine learning model trained on manually labeled data.
 
 ##  Process summary
 
-- Manually labeled ~100 text samples into categories: Ecommerce, Healthcare, Entertainment, Technology, Education, Other
-- Tried two models: Logistic Regression and Random Forest
-- Random Forest performed slightly better (accuracy around 40–50%) → saved as final model
+- Manually labeled ~500 text samples into 6 categories: Ecommerce, Healthcare, Entertainment, Technology, Education, Other
+- Explored multiple models and selected the best based on evaluation metrics
+- Achieved ~70–75% accuracy by balancing data and fine-tuning preprocessing
 - Built a Flask API to serve predictions
+
 
 
